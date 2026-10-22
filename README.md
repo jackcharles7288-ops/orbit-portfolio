@@ -26,10 +26,10 @@ Personal 3D Solar System portfolio website of **Ahmed Iftikhar**, Software Engin
 
 1. **Host Star**: **Ahmed Iftikhar** (Software Engineer & Technical SEO Specialist · Abbottabad, Pakistan · COMSATS University)
 2. **Planet 01**: `CopyFonty` — Gas giant · Jupiter-class (Font & text-style tools · 60K+ Google impressions in 3 months)
-3. **Planet 02**: `Fontly` — Ringed giant · Saturn-class (Edge-deployed font tool on Cloudflare Pages)
-4. **Planet 03**: `Morse Translator` — Ice giant · Neptune-class (Free online Morse code audio/visual translator)
+3. **Planet 02**: `Case Converter` — Ringed giant · Saturn-class (Free online multi-case text conversion utility)
+4. **Planet 03**: `Morse Code Translator` — Ice giant · Neptune-class (Free online Morse code audio/visual translator)
 5. **Planet 04**: `IG Unfollowed` — Terrestrial · Earth-class (Social media following analysis tool)
-6. **Planet 05**: `Fonti.cool` — Terrestrial · Mars-class (Next-gen font & typography tool targeting new keywords)
+6. **Planet 05**: `Fonti.cool` — Terrestrial · Mars-class (Creative font generator & stylish text utility)
 
 ---
 
